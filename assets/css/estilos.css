@@ -1,0 +1,30 @@
+li{
+    padding: 12px 0px;
+    border-bottom: 1px solid #c1c1c1;
+}
+
+.header-img{
+    max-width: 400px;
+    display: block;
+    margin: auto;
+
+}
+
+.formulario{
+    max-width: 400px;
+    margin: 45px auto;
+    text-align: center;
+}
+
+.datosSuperHeroe{
+    float: left;
+}
+
+#SuperHero-data{
+    border: 1px solid #c1c1c1;
+    border-radius: 8px;
+}
+
+#superhero-details{
+    margin-bottom: 50px;
+}
